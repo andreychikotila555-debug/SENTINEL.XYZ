@@ -1,0 +1,2 @@
+Положите сюда собранный файл SENTINEL.XYZ.exe (имя должно совпадать с downloadUrl в config.js).
+Либо вставьте прямую ссылку на файл в config.js -> downloadUrl.
